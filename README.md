@@ -10,19 +10,15 @@ If you are in the workshop, then you know it is due to last much of the day, Tue
 
 | Time    | Event |
 | ------- |-------|
-| 9:00 - 9:30 | *What is Culture Analytics?*  A talk designed to give a quick definition of the domain as we understand it and to highlight recent research by various individuals, many of whom are involved already with the group. John Laudun (U of Louisiana). |
-|  9:30-10:15 | Discussion |
-| 10:15-10:30 |  *Measuring and Presenting time series of Astrophotography in Science, Public Discourse and (Virtual) Museums Exhibitions* - Ekaterina Lapina-Kratasyuk (National Research University Higher School of Economics & Leon Gurevitch (Victoria University of Wellington) |
-| 10:30-10:45 | *Large images dataset overtime : PixPlot new features*. Peter Leonard (Yale University). |
-| 10:45-11:00  |  *Time Series* Clarisse Bardiot and Mila Oiva.  |
-
-Tutorial 1
-11:00 Peter Broadwell (Stanford) Automated Movement and Choreography Analysis of Video Data via Deep Learning Pose Detection - notebook like tutorial
-
-12:00 lunch
-
-Tutorial 2
-13:00 Taylor
-14:15 break
-14:30 : Kristoffer
-15h30 : wrap up
+|  9:00 | **What is Culture Analytics?**  A talk designed to give a quick definition of the domain as we understand it and to highlight recent research by various individuals, many of whom are involved already with the group. John Laudun (U of Louisiana). |
+|  9:30 | Discussion |
+| 10:00 | Morning Break.   |
+| 10:15 |  **Measuring and Presenting time series of Astrophotography in Science, Public Discourse and (Virtual) Museums Exhibitions**.  Ekaterina Lapina-Kratasyuk (National Research University Higher School of Economics) & Leon Gurevitch (Victoria University of Wellington) |
+| 10:30 | **Large Images Dataset over Time with PixPlot**. Peter Leonard (Yale University). |
+| 10:45 |  **Time Series** Clarisse Bardiot and Mila Oiva.  |
+| 11:00 | **Automated Movement and Choreography Analysis of Video Data via Deep Learning Pose Detection**. Peter Broadwell (Stanford University).
+| 12:00 | Lunch |
+| 13:00 | Taylor  |
+| 14:15 | Afternoon Break  |
+| 14:30 | Kristoffer Nielbo  |
+| 15:30 | Workshop Wrap-up and Discussion  |
