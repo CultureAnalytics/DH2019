@@ -18,7 +18,7 @@ If you are in the workshop, then you know it is due to last much of the day, Tue
 | 10:45 |  **Time Series** Clarisse Bardiot and Mila Oiva.  |
 | 11:00 | **Automated Movement and Choreography Analysis of Video Data via Deep Learning Pose Detection**. Peter Broadwell (Stanford University).
 | 12:00 | Lunch |
-| 13:00 | Taylor  |
+| 13:00 | Taylor Arnold. |
 | 14:15 | Afternoon Break  |
-| 14:30 | Kristoffer Nielbo  |
+| 14:30 | Kristoffer Nielbo and Ross Deans Kristensen-McLachlan. |
 | 15:30 | Workshop Wrap-up and Discussion  |
