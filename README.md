@@ -10,15 +10,28 @@ If you are in the workshop, then you know it is due to last much of the day, Tue
 
 | Time    | Event |
 | ------- |-------|
-|  9:00 | **What is Culture Analytics?**  A talk designed to give a quick definition of the domain as we understand it and to highlight recent research by various individuals, many of whom are involved already with the group. John Laudun (U of Louisiana). |
+|  9:00 | **What is Culture Analytics?**  A talk designed to give a quick definition of the domain as we understand it and to highlight recent research by various individuals, many of whom are involved already with the group. *John Laudun*. |
 |  9:30 | Discussion |
 | 10:00 | Morning Break.   |
-| 10:15 |  **Measuring and Presenting time series of Astrophotography in Science, Public Discourse and (Virtual) Museums Exhibitions**.  Ekaterina Lapina-Kratasyuk (National Research University Higher School of Economics) & Leon Gurevitch (Victoria University of Wellington) |
-| 10:30 | **Large Images Dataset over Time with PixPlot**. Peter Leonard (Yale University). |
+| 10:15 |  **Measuring and Presenting time series of Astrophotography in Science, Public Discourse and (Virtual) Museums Exhibitions**.  Ekaterina Lapina-Kratasyuk & Leon Gurevitch. |
+| 10:30 | **Large Images Dataset over Time with PixPlot**. Peter Leonard. |
 | 10:45 |  **Time Series** Clarisse Bardiot and Mila Oiva.  |
-| 11:00 | **Automated Movement and Choreography Analysis of Video Data via Deep Learning Pose Detection**. Peter Broadwell (Stanford University).
+| 11:00 | **Automated Movement and Choreography Analysis of Video Data via Deep Learning Pose Detection**. *Peter Broadwell* (Stanford University).
 | 12:00 | Lunch |
-| 13:00 | Taylor Arnold. |
+| 13:00 | *Taylor Arnold*. |
 | 14:15 | Afternoon Break  |
-| 14:30 | Kristoffer Nielbo and Ross Deans Kristensen-McLachlan. |
+| 14:30 | **Time Series in Texts: From the Micro to the Macro**. This hand-on tutorial offers participants a chance to explore how time series analysis can be used both to examine a single text and to examine a corpus. Examples include a short story, a novel, and a corpus of newspapers. Exercises include parsing texts in various ways and then deriving values through topics and sentiment and then understanding change over time through the Hurst exponent. *Kristoffer Nielbo and Ross Deans Kristensen-McLachlan*. |
 | 15:30 | Workshop Wrap-up and Discussion  |
+
+## Affiliations
+
+Laudun: University of Louisiana
+Lapina-Kratasyuk: National Research University Higher School of Economics
+Gurevitch: Victoria University of Wellington
+Leonard: Yale University
+Bardiot: Université de Valenciennes
+Oiva: Turun Yliopisto (University of Turku)
+Broadwell: Stanford University
+Arnold: University of Richmond
+Nielbo: Aarhus Universitet
+Kristensen-McLachlan: Aarhus Universitet
