@@ -25,13 +25,13 @@ If you are in the workshop, then you know it is due to last much of the day, Tue
 
 ## Affiliations
 
-Laudun: University of Louisiana
-Lapina-Kratasyuk: National Research University Higher School of Economics
-Gurevitch: Victoria University of Wellington
-Leonard: Yale University
-Bardiot: Université de Valenciennes
-Oiva: Turun Yliopisto (University of Turku)
-Broadwell: Stanford University
-Arnold: University of Richmond
-Nielbo: Aarhus Universitet
-Kristensen-McLachlan: Aarhus Universitet
+**Arnold**: University of Richmond • 
+**Bardiot**: Université de Valenciennes • 
+**Broadwell**: Stanford University • 
+**Gurevitch**: Victoria University of Wellington • 
+**Kristensen-McLachlan**: Aarhus Universitet • 
+**Lapina-Kratasyuk**: National Research University Higher School of Economics • 
+**Laudun**: University of Louisiana • 
+**Leonard**: Yale University • 
+**Nielbo**: Aarhus Universitet • 
+**Oiva**: Turun Yliopisto (University of Turku) • 
