@@ -1,8 +1,10 @@
 # DH2019
 
-Welcome to the Time Series workshop being offered at DH2019 by the Cultural Analytics group! Much of the materials you will need for the workshop are available here, as will be notes, handouts, and possibly slides from the various talks. If you are viewing the GitHub pages version of the repository, you will want to browse to the repository itself to see everything as well as to make it easier to download or clone the contents of the repository.
+Welcome to the Time Series workshop being offered at DH2019 by the Culture Analytics group! Much of the materials you will need for the workshop are available here, as will be notes, handouts, and possibly slides from the various talks. If you are viewing the GitHub pages version of the repository, you will want to browse to the repository itself to see everything as well as to make it easier to download or clone the contents of the repository.
 
-If you enrolled in the workshop, please be sure to fill out the survey available on Google Drive so that we can prepare the best possible experience for everyone. Our goal is to expand the number of researchers who consider themselves to be working within the arena of cultural analytics. The survey simply asks you to tell us about you: name, affiliation, research interest(s), and, if you have a link to a paper or a project description you would like others to know about.
+If you enrolled in the workshop, please be sure to fill out the survey available on Google Drive so that we can prepare the best possible experience for everyone. Our goal is to expand the number of researchers who consider themselves to be working within the arena of culture analytics. The survey simply asks you to tell us about you: name, affiliation, research interest(s), and, if you have a link to a paper or a project description you would like others to know about.
+
+If you are curious about some of the history of the culture analytics group, an included [whitepaper](WhitePaper.md) offers some insight. 
 
 ## Schedule
 
