@@ -1,7 +1,6 @@
 # Culture Analytics
 
-James Abello, Edoardo Airoldi, Cecilia Aragon, Katy Börner, Russel E. Caflisch, Maria-Rita D’Orsogna, Tina Eliassi-Rad, Jacob G. Foster, Jianbo Gao, Blake Hunter, Lev Manovich, Isabel Meirelles, Filippo Menczer, Vwani Roychowdhury, Maximilian Schich, Timothy R.
-Tangherlini (For affiliations and corresponding author see below.)
+James Abello, Edoardo Airoldi, Cecilia Aragon, Katy Börner, Russel E. Caflisch, Maria-Rita D’Orsogna, Tina Eliassi-Rad, Jacob G. Foster, Jianbo Gao, Blake Hunter, Lev Manovich, Isabel Meirelles, Filippo Menczer, Vwani Roychowdhury, Maximilian Schich, Timothy R. Tangherlini. (For affiliations and corresponding author see below.)
 
 > Culture analytics holds enormous potential, allowing cultural understanding to be leveraged for intelligent policy making in the face of diverse global challenges.
 
@@ -64,18 +63,20 @@ The authors thank the participants of the NSF’s Institute for Pure and Applied
 
 ## Author Affiliations
 
-James Abello1, Edoardo Airoldi2, Cecilia Aragon3, Katy Börner4, Russel E. Caflisch5,6, Maria-Rita D’Orsogna7, Tina Eliassi-Rad8, Jacob G. Foster6, Jianbo Gao9, Blake Hunter10, Lev Manovich11, Isabel Meirelles12, Filippo Menczer4, Vwani Roychowdhury6, Maximilian Schich13, Timothy R.
-Tangherlini6*
+**Abello**: Rutgers University • 
+**Airoldi**: Harvard University • 
+**Aragon**: University of Washington • 
+**Börner**: Indiana University • 
+**Caflisch**: UCLA, Institute for Pure and Applied Mathematics • 
+**D’Orsogna**: California State University, Northridge • 
+**Eliassi-Rad**: Northeastern University • 
+**Foster**: University of California, Los Angeles • 
+**Gao**: Guanxi University • 
+**Hunter**: Claremont McKenna College • 
+**Manovich**: City University of New York Graduate Center 12 OCAD University • 
+**Menczer**: Indiana University • 
+**Roychowdhury**: University of California, Los Angeles • 
+**Schich**: The University of Texas at Dallas • 
+**Tangherlini**: University of California, Los Angeles.
 
-1 Rutgers University
-2 Harvard University
-3 University of Washington
-4 Indiana University
-5 Institute for Pure and Applied Mathematics
-6 University of California, Los Angeles
-7 California State University, Northridge
-8 Northeastern University
-9 Guanxi University
-10 Claremont McKenna College
-11 City University of New York Graduate Center 12 OCAD University
-13 The University of Texas at Dallas *Correspondence to: tango@humnet.ucla.edu
+*Correspondence to: tango@humnet.ucla.edu
