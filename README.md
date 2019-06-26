@@ -20,14 +20,14 @@ If you are in the workshop, then you know it is due to last much of the day, Tue
 | 10:45 |  **Time Series** Clarisse Bardiot and Mila Oiva.  |
 | 11:00 | **Automated Movement and Choreography Analysis of Video Data via Deep Learning Pose Detection**. *Peter Broadwell* (Stanford University).
 | 12:00 | Lunch |
-| 13:00 | *Taylor Arnold*. |
+| 13:00 | **Classical Methods in Time Series Analysis with R** Methods of classical time series analysis will be presented:  ARIMA, Hidden Markov Models (HMM), curve fitting, and recurrent neural networks (RNN). The focus will be on understanding how these methods differ and seeing various applications to cultural analytics. Participants are encouraged to follow-along with the analysis using the open source programming language R.  *Taylor Arnold*. |
 | 14:15 | Afternoon Break  |
 | 14:30 | **Time Series in Texts: From the Micro to the Macro**. This hand-on tutorial offers participants a chance to explore how time series analysis can be used both to examine a single text and to examine a corpus. Examples include a short story, a novel, and a corpus of newspapers. Exercises include parsing texts in various ways and then deriving values through topics and sentiment and then understanding change over time through the Hurst exponent. *Kristoffer Nielbo and Ross Deans Kristensen-McLachlan*. |
 | 15:30 | Workshop Wrap-up and Discussion  |
 
 ## Affiliations
 
-**Arnold**: University of Richmond • 
+**Arnold**: University of Richmond /  • 
 **Bardiot**: Université de Valenciennes • 
 **Broadwell**: Stanford University • 
 **Gurevitch**: Victoria University of Wellington • 
