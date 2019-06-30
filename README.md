@@ -10,7 +10,7 @@ If you are curious about some of the history of the culture analytics group, an 
 
 If you are in the workshop, then you know it is due to last much of the day, Tuesday, July 9 from 9:00 to 16:00. In order to make the day not feel long, however, we have scheduled a number of breaks as well as kept the talking to a minimum: we have tried to make the workshop as hands-on and focused on your work as possible.
 
-*Please note that we changed the schedule was updated on June 30 to reflect changes in presenter availability and also to sync with the timings for breaks and lunch as set by the conference organizers.*
+*Please note that the schedule was updated on June 30 to reflect changes in presenter availability as well as to sync the timings for breaks and lunch with the published conference schedule.*
 
 | Time    | Event |
 | ------- |-------|
