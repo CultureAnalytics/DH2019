@@ -18,7 +18,7 @@ If you are in the workshop, then you know it is due to last much of the day, Tue
 |  9:30 | Discussion |
 | 10:00 |  **Measuring and Presenting time series of Astrophotography in Science, Public Discourse and (Virtual) Museums Exhibitions**.  Ekaterina Lapina-Kratasyuk & Leon Gurevitch. |
 | 10:30 | Morning Break.   |
-| 11:00 | **Large Images Dataset over Time with PixPlot**. Peter Leonard. |
+| 11:00 | **Collection-Scale Visualization with PixPlot** [PixPlot](https://github.com/YaleDHLab/pix-plot) is open-source software that presents tens of thousands of images organized according to visual similarity.  We'll talk about prior work in this area, explore how computers 'see', experience some existing collections in PixPlot, and future directions for the tool. *Peter Leonard* |
 | 12:00 | **Automated Movement and Choreography Analysis of Video Data via Deep Learning Pose Detection**. *Peter Broadwell* (Stanford University).
 | 13:00 | Lunch |
 | 14:00 | **Visualizing Time Series with R** Using classical methods in time series analysis and exploratory data analysis, we show how various temporal datasets can be efficently analyzed and dispalyed. The focus will be on understanding how these methods differ and seeing various applications to cultural analytics. Participants with prior programming experience are encouraged to follow-along with the analysis using the open source programming language R. [Code and data](https://github.com/statsmaths/dh2019-time-series-analysis) *Taylor Arnold*. |
